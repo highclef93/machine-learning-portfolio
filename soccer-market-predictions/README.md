@@ -2,6 +2,11 @@
 
 ![Header Image](assets/cover.jpg)
 
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-green.svg)](https://scikit-learn.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Project Overview
 
 This project leverages machine learning techniques to predict the market value of soccer players using data from the FIFA video game series. The research focuses on players from the top 5 European leagues (Premier League, La Liga, Bundesliga, Serie A, and Ligue 1) and explores how player attributes, performance metrics, and other factors influence their market valuation.

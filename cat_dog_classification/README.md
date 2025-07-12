@@ -2,6 +2,11 @@
 
 ![Project Header Image](assets/cover.jpg)
 
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-green.svg)](https://scikit-learn.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ### **📌 Project Overview**  
 This project demonstrates my expertise in **machine learning (ML) and Computer Vision** by building a **binary image classifier** to distinguish between cats and dogs. Using traditional ML techniques (not deep learning), I preprocessed image data, trained multiple models, and optimized hyperparameters to achieve the best performance.  
 
