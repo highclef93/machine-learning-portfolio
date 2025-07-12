@@ -1,10 +1,5 @@
 # **NCT Vehicle Roadworthiness Analysis & Visualization Portfolio**  
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-green.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## **Project Showcase: NCT Vehicle Roadworthiness Test Analysis (2021)**  
 
 ### **📌 Overview**  
